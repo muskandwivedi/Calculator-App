@@ -1,3 +1,3 @@
-#Calculator App
+Calculator-App
 
-A simple calculator application for performing the tasks.
+Perform calculations in seconds by using this simple calculator application.
