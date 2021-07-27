@@ -10,6 +10,7 @@ console.log(time);
 // 2. Calculating the numbers
 const calcNumbers = function (result) {
   areaEl.value += result;
+  console.log(result);
 };
 // 3.Making the numbers negative and positive(+/-)
 const makeNegativeAndPostive = function (result) {
