@@ -8,8 +8,8 @@ const time = `${today.getHours()}:${String(today.getMinutes()).padStart(2, 0)}`;
 timeEl.innerHTML = time;
 console.log(time);
 // 2. Calculating the numbers
-const calcNumbers = function (result) {
-  areaEl.value += result;
+const calcNumbers = function (results) {
+  areaEl.value += results;
 };
 // 3.Making the numbers negative and positive(+/-)
 const makeNegativeAndPostive = function (result) {
